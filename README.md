@@ -10,7 +10,7 @@ I'm a passionate web developer with 1 year of experience specializing in buildin
 
 I enjoy creating clean, efficient code and bringing creative ideas to life. Check out my projects and let's connect!
 
-# skills
+# Skills
 ---
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
